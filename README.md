@@ -150,7 +150,8 @@ In this tutorial, it demonstrates the setup process of Azure Sentinel, a robust 
 </p> 
 
 <p> 
-**Execute in PowerShell ISE on the Virtual Machine**:
+<b>**Execute in PowerShell ISE on the Virtual Machine**:</b>
+
 - Begin by launching PowerShell ISE on the Virtual Machine.
 - To proceed, ensure you have your unique API key for accessing longitude and latitude information.
 
@@ -211,7 +212,7 @@ In this tutorial, it demonstrates the setup process of Azure Sentinel, a robust 
 </p> 
 
 <p>
-**Creating Custom Fields with Kusto Query Language (KQL)**:
+<b>**Creating Custom Fields with Kusto Query Language (KQL)**:</p></b>
 
 1. Begin by accessing your Log Analytics workspace.
 
@@ -240,7 +241,7 @@ In this tutorial, it demonstrates the setup process of Azure Sentinel, a robust 
 </p> 
 
 <p>
-**Creating a Map Workbook in Microsoft Sentinel**:
+<b>**Creating a Map Workbook in Microsoft Sentinel**:</b>
 
 1. Start by entering "Microsoft Sentinel" to create a new workbook for the map.
 
