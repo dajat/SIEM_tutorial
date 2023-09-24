@@ -88,9 +88,11 @@ Copy and paste in PowerShell ISE in VM – will need own API key to launch longi
 <br /> 
 
 <h2>Step 5: Create Custom Log </h2>
-<p> 
-
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
+<p float="left">
+<img src="https://imgur.com/tQhIDAu.png" height= "50%" width="50%" />
+<img src="https://imgur.com/Afy3eg3.png" height="50%" width="50%" alt=""/> 
+<img src="https://imgur.com/qkQD528.png" height= "70%" width="70%" />
+<img src="https://imgur.com/8SrrxHZ.png" height= "70%" width="70%" />
 
 </p> 
 
@@ -104,7 +106,7 @@ Creating a custom log to pull in logs from the geo data and navigate to log anal
 <h2>Step 6: Extract Raw Data from Log files </h2>
 <p> 
 
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
+<img src="https://imgur.com/Ep6PyQN.png" height="80%" width="80%" alt=""/> 
 
 </p> 
 
@@ -116,10 +118,10 @@ Extract raw data to create custom fields by using Kusto Query Language and extra
 <br /> 
 
 <h2>Step 7: Setup map in Azure Sentinel </h2>
-<p> 
-
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
-
+<p float="left">
+<img src="https://imgur.com/t3XuQpF.png" height= "50%" width="50%" />
+<img src="https://imgur.com/3Z6Li3d.png" height="100%" width="100%" alt=""/> 
+<img src="https://imgur.com/LzN0pqM.png" height= "70%" width="70%" />
 </p> 
 
 <p>
