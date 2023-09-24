@@ -40,26 +40,29 @@ Create a virtual machine in Azure by navigating to "Virtual Machine in the searc
 
 <br /> 
 
-<h2>Step 2: Create Log Analytics Workspace </h2> 
+<h2>Step 2: Create Log Analytics Workspace </h2>
 
-<p> 
-
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
+<p float="left">
+  <img src="https://imgur.com/9x6hRuD.png" height= "70%" width="70%" />
+  <img src="https://imgur.com/F5cb6Dz.png" height= "70%" width="70%" />
+  <img src="https://imgur.com/mmGQW5e.png" height= "70%" width="70%"/>
 
 </p> 
 
 <p> 
 
-Type in log analytics in Azure and select Create log analytics workspace. Choose the resource group that was created previously, add name for the log analytics and select review and create and select create. Navigate to Microsoft Defender for cloud and select environment settings. Click the dropdown for Tenant and Azure Subscription and you will see to log analytic workspace that was previously created. Click on the workspace and under “Defender Plans” to turn on Microsoft defender and turn off SQL servers and Select save. Next, under data collection, Select All Events. 
+Type in log analytics in Azure and select Create log analytics workspace. Choose the resource group that was created previously, add name for the log analytics and select review and create and select create. Navigate to Microsoft Defender for cloud and select environment settings. Click the dropdown for Tenant and Azure Subscription and you will see to log analytic workspace that was previously created. Click on the workspace and under “Defender Plans” to turn on Microsoft Defender turn off SQL servers and select Save. Next, under data collection, Select All Events. 
 
 </p> 
 
 <br /> 
 
 <h2>Step 3: Log Analytics Continued </h2>
-<p> 
-
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
+<p float="left">
+  <img src="https://imgur.com/3sfn4Vo.png" height= "70%" width="70%" />
+  <img src="https://imgur.com/ftVaFq9.png" height= "70%" width="70%" />
+  <img src="https://imgur.com/l9WMLI1.png" height= "70%" width="70%"/>
+  <img src="https://imgur.com/h9uG5Ef.png" height= "70%" width="70%"/>
 
 </p> 
 
@@ -70,10 +73,10 @@ Next, connect the virtual machine to the log analytics workspace. Click on works
 
 <br /> 
 
-<h2>Step 4: Downloaded/Use Powershell Script </h2>
+<h2>Step 4: Download/Use Powershell Script </h2>
 <p> 
 
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt=""/> 
+<img src="https://imgur.com/aB5fC5q.png" height="90%" width="90%" alt=""/> 
 
 </p> 
 
